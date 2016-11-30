@@ -1,0 +1,23 @@
+[
+    {
+        "address": "1600 Amphitheatre Parkway,Mountain View,CA",
+        "location": {
+            "lat": 37.4223664,
+            "lng": -122.084406
+        }
+    },
+    {
+        "address": "Chennai,Tamil Nadu",
+        "location": {
+            "lat": 13.0826802,
+            "lng": 80.2707184
+        }
+    },
+    {
+        "address": "Sydney, Australia",
+        "location": {
+            "lat": -33.8688197,
+            "lng": 151.2092955
+        }
+    }
+]
